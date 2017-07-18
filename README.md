@@ -58,8 +58,8 @@ From left to right, each column represents:1-start time of highlight, 2-end time
 ## Code
 Please cite the paper above when you use this code in your work. 
 There are 4 code files:
-* Step_2_emotion_lexicon.py is built to construct the emotion lexicon with semi-supervision iteratively.
-* Step_3_embed_lexical_chain.py is built to perform concept mapping, lexical chain construction, lag-calibration, highlight detection and generate text summary in each highlight.
-* Step_4_evaluate_highlights.py is built to evaluate model against benchmarks on highlight detection.
-* Step_5_evaluate_summary.py is built to evaluate model against benchmarks on highlight summmarization.
+* Step_1_emotion_lexicon.py is built to construct the emotion lexicon with semi-supervision iteratively.
+* Step_2_embed_lexical_chain.py is built to perform concept mapping, lexical chain construction, lag-calibration, highlight detection and generate text summary in each highlight.
+* Step_3_evaluate_highlights.py is built to evaluate model against benchmarks on highlight detection.
+* Step_4_evaluate_summary.py is built to evaluate model against benchmarks on highlight summmarization.
 

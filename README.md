@@ -4,7 +4,7 @@ This project implements the following paper:
 
 * Ping, Q., Chen, C. (2017).Video Highlights Detection and Summarization with Lag-Calibration based on Concept-Emotion Mapping of Crowd-sourced Time-Sync Comments. In EMNLP Workshop on New Frontiers in Summarization.
 
-The slides can be found [here](https://drive.google.com/open?id=0ByRn2qS9cc0-aE5ybVZERlNWbUE):
+The slides can be found [here](https://drive.google.com/open?id=0ByRn2qS9cc0-aE5ybVZERlNWbUE).
 
 
 
